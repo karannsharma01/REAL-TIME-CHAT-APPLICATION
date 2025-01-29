@@ -34,6 +34,7 @@ Messages are displayed in the chat window with the sender's name for context.
 2. Support for multiple chat rooms.
 3. Responsive and user-friendly interface for easy communication.
 4. Scalable backend to handle multiple users simultaneously.
+
 This chat app is ideal for fostering communication in groups or communities and can be easily customized to add more features like user authentication or message storage.
 
 # OUTPUT:
